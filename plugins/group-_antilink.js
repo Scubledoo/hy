@@ -8,7 +8,8 @@ handler.before = function (m, { user, isAdmin, isBotAdmin }) {
   let chat = global.DATABASE.data.chats[m.chat]
   let name = this.getName(m.sender)
   let link = linkRegex.exec(m.text)
-
+  let linkgc = (`https://whatapp.com/`+await conn.groupInviteCode(m.chat))
+  if (islinkgc) return m.reply('bot tidak jadi kick. kamu kirim link grup ini')
   if (chat.antiLink && link && !isAdmin && !m.isBaileys && m.isGroup && !m.fromMe) {
   if (user.isAdmin || user.isSuperAdmin) return m.reply ('Karena Kamu Adalah Admin Group Bot tidak akan Kick Kamu')
  m.reply(`*「 ANTILINK DETECTOR 」*\nLink Gorup Terdeteksi Maaf *${name}* Kamu Telah Mengirim Link Group Kamu Akan Saya Kick :(`)
