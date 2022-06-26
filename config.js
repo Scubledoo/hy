@@ -1,15 +1,15 @@
 //=============『 Utama 』================== //
 global.owner = ['6282298952644'] 
 global.mods = [] 
-global.prems = [] 
+global.prems = ['6283169635444⁩'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Yha Official'
 global.numberowner = '6282298952644'
 global.instagram = 'https://instagram.com'
 global.github = 'https://github.com/Hyzerr'
-global.dana = '-'
-global.pulsa = '-'
+global.dana = '085825568271'
+global.pulsa = '085825568271'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
