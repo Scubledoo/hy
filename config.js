@@ -16,7 +16,7 @@ global.gopay = '-'
 global.namebot = 'NectoBot-Md'
 global.gc = 'https://chat.whatsapp.com/KE9VFp6sMLpJcOYDnkG1EP'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = 'Perma 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
