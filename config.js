@@ -10,13 +10,13 @@ global.instagram = 'https://instagram.com'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '085825568271'
 global.pulsa = '085825568271'
-global.gopay = '-'
+global.gopay = '123456789010'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'NectoBot-Md'
 global.gc = 'https://chat.whatsapp.com/KE9VFp6sMLpJcOYDnkG1EP'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'Perma 5.000'
+global.price1 = 'Perma 10.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
